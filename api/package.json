@@ -1,7 +1,7 @@
 {
-  "name": "airbnb-api",
+  "name": "CheckInn-api",
   "version": "1.0.0",
-  "description": "API for airbnb clone app",
+  "description": "API for CheckInn WebApp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

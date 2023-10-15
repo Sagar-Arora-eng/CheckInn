@@ -20,7 +20,7 @@ const Footer = () => {
             </p>
             <p>
               <span className="cursor-pointer font-normal text-gray-700 decoration-1 underline-offset-1 hover:underline">
-                Air cover
+                CheckInn
               </span>
             </p>
             <p>
@@ -48,12 +48,12 @@ const Footer = () => {
             <strong className="font-medium">Hosting</strong>
             <p>
               <span className="cursor-pointer font-normal text-gray-700 decoration-1 underline-offset-1 hover:underline">
-                Airbnb your home
+                CheckInn your home
               </span>
             </p>
             <p>
               <span className="cursor-pointer font-normal text-gray-700 decoration-1 underline-offset-1 hover:underline">
-                AirCover for Hosts
+                CheckInn for Hosts
               </span>
             </p>
             <p>
@@ -73,7 +73,7 @@ const Footer = () => {
             </p>
           </div>
           <div className="flex flex-col gap-1">
-            <strong className="font-medium">Airbnb</strong>
+            <strong className="font-medium">CheckInn</strong>
             <p>
               <span className="cursor-pointer font-normal text-gray-700 decoration-1 underline-offset-1 hover:underline">
                 Newsroom
@@ -96,7 +96,7 @@ const Footer = () => {
             </p>
             <p>
               <span className="cursor-pointer font-normal text-gray-700 decoration-1 underline-offset-1 hover:underline">
-                Airbnb.org emergency stays
+                CheckInn.com emergency stays
               </span>
             </p>
           </div>
@@ -154,7 +154,7 @@ const Footer = () => {
           </div>
 
           <div className="flex w-full flex-col gap-2 px-1 font-normal text-gray-700 md:w-auto md:flex-row md:items-center md:gap-8">
-            <p className="text-sm">&copy; 2023 Airbnb, Inc.</p>
+            <p className="text-sm">&copy; 2023 CheckInn, Inc.</p>
             <div>
               <ul className=" flex gap-6 text-sm text-gray-700">
                 <li className="cursor-pointer text-gray-700 decoration-1 underline-offset-1 hover:underline md:list-disc">

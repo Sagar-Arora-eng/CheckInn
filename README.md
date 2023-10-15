@@ -1,8 +1,8 @@
-# Airbnb clone
+# CheckInn
 
-This is a clone of the Airbnb web application built using MERN stack. It is a full-stack web application that allows users to book accommodations in various locations. This application supports user registration, login and authentication. It also features my accommodations for adding and managing places.
+This is a CheckInn web application built using MERN stack. It is a full-stack web application that allows users to book accommodations in various locations. This application supports user registration, login and authentication. It also features my accommodations for adding and managing places.
 
-### Hosted link: [Airbnb clone](https://airbnb-1.netlify.app)
+### Hosted link: [CheckInn](https://airbnb-1.netlify.app)
 
 ## Installation
 
@@ -10,7 +10,7 @@ To install and run the application, please follow these steps:
 
 - Clone the repository to your local machine.
 - Navigate to the project root folder in the terminal
-- Install dependencies using the command `yarn`.
+- Install dependencies using the command `npm install`.
 - You can either work with MongoDB atlas or use your locally installed MongoDB
 - Create a .env file in your project api folder and add your variables.
 
