@@ -85,7 +85,7 @@ export const Header = () => {
                   <AvatarImage src={user.picture} className="h-full w-full" />
                 ) : (
                   <AvatarImage
-                    src="https://res.cloudinary.com/rahul4019/image/upload/v1695133265/pngwing.com_zi4cre.png"
+                    src="https://res-console.cloudinary.com/dpsp5ixse/thumbnails/transform/v1/image/upload/Y19saW1pdCxoXzE2MDAsd18xNjAwLGZfanBnLGZsX2xvc3N5LmFueV9mb3JtYXQucHJlc2VydmVfdHJhbnNwYXJlbmN5LnByb2dyZXNzaXZl/v1/bzY3ejczYWExMm1tY2s3eWg1emo=/template_primary"
                     className="h-full w-full"
                   />
                 )}
