@@ -2,7 +2,7 @@
 
 This is a CheckInn web application built using MERN stack. It is a full-stack web application that allows users to book accommodations in various locations. This application supports user registration, login and authentication. It also features my accommodations for adding and managing places.
 
-### Hosted link: [CheckInn](https://airbnb-1.netlify.app)
+### Hosted link: [CheckInn](https://check-inn-seven.vercel.app/)
 
 ## Installation
 
