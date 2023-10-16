@@ -80,7 +80,7 @@ const ProfilePage = () => {
             {/* Action buttons */}
             <div className="flex w-full justify-around sm:justify-end sm:gap-5 md:gap-10">
               {/* <Button varient="secondary">Edit profile</Button> */}
-              <EditProfileDialog />
+              {/* <EditProfileDialog /> */}
 
               <Button variant="secondary" onClick={handleLogout}>
                 <LogOut className="mr-2 h-4 w-4" />
