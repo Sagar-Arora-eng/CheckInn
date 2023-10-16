@@ -44,12 +44,6 @@ app.use(
     credentials: true,
   })
 );
-// app.options(
-//   "*",
-//   cors({ origin: process.env.CLIENT_URL, optionssuccessstatus: 200 })
-// );
-
-// app.use(cors({ origin: process.env.CLIENT_URL, optionssuccessstatus: 200 }));
 
 // use express router
 app.use("/", require("./routes"));
